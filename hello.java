@@ -1,3 +1,4 @@
-class hello
+class hello()
 {
-}
+	main()
+
